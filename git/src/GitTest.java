@@ -49,7 +49,7 @@ public class GitTest {
         System.out.println("----------------------id");
         System.out.println("----------------------id");
         System.out.println("----------------------id");
-        
-        
+
+        System.out.println("idea");
     }
 }
