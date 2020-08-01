@@ -35,14 +35,10 @@ public class GitTest {
         System.out.println();
         System.out.println();
         System.out.println();
-        
-
         System.out.println("");
         System.out.println("");
         System.out.println("");
         System.out.println("");
-
-
         System.out.println("my");
         System.out.println("my");
         
@@ -53,6 +49,6 @@ public class GitTest {
         System.out.println("----------------------id");
         System.out.println("----------------------id");
         System.out.println("----------------------id");
-
+        
     }
 }
