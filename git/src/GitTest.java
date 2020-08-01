@@ -53,5 +53,6 @@ public class GitTest {
         System.out.println("my");
         System.out.println("idea-my");
         System.out.println("idea");
+        System.out.println("my");
     }
 }
